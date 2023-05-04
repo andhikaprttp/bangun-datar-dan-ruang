@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main(){
     int pilihan;
     float alas, tinggi, sisi, panjang, lebar, luas, keliling;
 
