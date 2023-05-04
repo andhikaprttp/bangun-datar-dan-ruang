@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-    int pilihan;
-    float alas, tinggi, sisi, panjang, lebar, luas, keliling;
+ int pilihan;
+ float alas, tinggi, sisi, panjang, lebar, luas, keliling;
 
     cout << "Program Menghitung Luas dan Keliling Bangun Datar" << endl;
     cout << "1. Segitiga" << endl;
