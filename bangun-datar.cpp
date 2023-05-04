@@ -4,7 +4,7 @@ using namespace std;
 int main(){
  int pilihan;
  float alas, tinggi, sisi, panjang, lebar, luas, keliling;
-
+   // andhika pratama putra
     cout << "Program Menghitung Luas dan Keliling Bangun Datar" << endl;
     cout << "=======================\n"
     cout << "1. Segitiga" << endl;
