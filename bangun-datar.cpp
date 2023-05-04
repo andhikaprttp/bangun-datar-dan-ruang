@@ -15,7 +15,7 @@ int main(){
     cout << "5. Trapesium" << endl;
     cout << "6. Belah Ketupat" << endl;
     cout << "7. Segi Enam" << endl;
-    cout << "8. Lingkaran"
+    cout << "8. Lingkaran" << endl;
     cout << "Masukkan pilihan Anda: ";
     cin >> pilihan;
 
