@@ -6,6 +6,7 @@ int main(){
  float alas, tinggi, sisi, panjang, lebar, luas, keliling;
 
     cout << "Program Menghitung Luas dan Keliling Bangun Datar" << endl;
+    cout << "=======================\n"
     cout << "1. Segitiga" << endl;
     cout << "2. Persegi" << endl;
     cout << "3. Persegi Panjang" << endl;
