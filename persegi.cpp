@@ -1,12 +1,12 @@
 #include <iostream>
 using namespace std;
 int main() {
-   int sisi;
+  int sisi;
   cout << "Masukkan panjang sisi persegi: ";
-   cin >> sisi;
-    int luas = sisi * sisi;
-    int keliling = 4 * sisi;
-    cout << "Luas persegi: " << luas << endl;
-    cout << "Keliling persegi: " << keliling << endl;
+  cin >> sisi;
+  int luas = sisi * sisi;
+  int keliling = 4 * sisi;
+  cout << "Luas persegi: " << luas << endl;
+  cout << "Keliling persegi: " << keliling << endl;
     return 0;
 }
