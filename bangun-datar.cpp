@@ -11,6 +11,10 @@ int main(){
     cout << "1. Segitiga" << endl;
     cout << "2. Persegi" << endl;
     cout << "3. Persegi Panjang" << endl;
+    cout << "4. Jajar Genjang" << endl;
+    cout << "5. Trapesium" << endl;
+    cout << "6. Belah Ketupat" << endl;
+    
     cout << "Masukkan pilihan Anda: ";
     cin >> pilihan;
 
