@@ -14,6 +14,7 @@ int main(){
     cout << "4. Jajar Genjang" << endl;
     cout << "5. Trapesium" << endl;
     cout << "6. Belah Ketupat" << endl;
+    cout << "7. Segi Enam" << endl;
     
     cout << "Masukkan pilihan Anda: ";
     cin >> pilihan;
