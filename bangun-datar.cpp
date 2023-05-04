@@ -5,8 +5,9 @@ int main(){
  int pilihan;
  float alas, tinggi, sisi, panjang, lebar, luas, keliling;
    // andhika pratama putra
+    cout << "================================================\n";
     cout << "Program Menghitung Luas dan Keliling Bangun Datar" << endl;
-    cout << "=======================\n"
+    cout << "================================================\n";
     cout << "1. Segitiga" << endl;
     cout << "2. Persegi" << endl;
     cout << "3. Persegi Panjang" << endl;
@@ -54,4 +55,3 @@ int main(){
 
     return 0;
 }
-
